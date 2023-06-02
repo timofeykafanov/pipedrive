@@ -1,5 +1,5 @@
-const apiUrl = 'https://api.pipedrive.com/v1';
-const apiToken = '2aedf0f16be42a9c3674ad8f3744a57a0c4bab09';
+const apiUrl = 'https://api.pipedrive.com/v1/deals';
+const apiToken = 'cbaa8bdfe56a6d441e1ef4eec8b1460fd2b6dff8';
 
 const requestData = {
   title: 'Название сделки',
